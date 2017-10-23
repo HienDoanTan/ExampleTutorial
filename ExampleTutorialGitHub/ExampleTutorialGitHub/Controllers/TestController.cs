@@ -12,6 +12,10 @@ namespace ExampleTutorialGitHub.Controllers
         {
             return View();
         }
+        public ActionResult ABC()
+        {
+            return View();
+        }
 
     }
 }
